@@ -123,3 +123,4 @@ Create a bot at the Discord Developer Portal:
 For local testing, guild commands are used so changes appear quickly in one server.
 # jnjnjn
 # jnjnjn
+# jnjnjn
